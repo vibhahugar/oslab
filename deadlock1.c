@@ -1,10 +1,10 @@
-#include <stdio.h>;
-#include <conio.h>;
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
  int found,flag,l,p[4][5],tp,tr,c[4][5],i,j,k=1,m[5],r[5],a[5],temp[5],sum=0;
- clrscr();
+ 
  printf("Enter total no of processes");
  scanf("%d",&tp);
  printf("Enter total no of resources");
